@@ -3,7 +3,7 @@ title: NB_CTBA
 description: CTBA Coursework
 ---
 
-![W&M Logo](/CTBA/CTBA/M3/5b58844257b42.image)
+![W&M Logo](/pics/wmlogo.jpg)
 
 This is content I've developed for my courses
 
