@@ -5,4 +5,5 @@ description: Course Content
 
 Aethetically pleasing and informative graphs using Matplotlib for my CTBA course.
 
-- [Matplotlib
+- [Matplotlib Graph Aethetics (html)](MatplotlibGraphAethetics.html)
+- [Matplotlib Graph Aethetics (ipynb)](MatplotlibGraphAethetics.ipynb)
