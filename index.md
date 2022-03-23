@@ -1,5 +1,5 @@
 ---
-Time Series
+title: Time Series
 description: Time Series Decomposition projects
 ---
 
