@@ -1,9 +1,7 @@
 ---
-title: Time Series
-description: Time Series Decomposition projects
+title: NB_CTBA
+description: CTBA Coursework
 ---
 
-This is content I've developed for my courses:
+This is content I've developed for my courses
 
-- [Time Series Decomposition](/timeseries/index.md)
--
