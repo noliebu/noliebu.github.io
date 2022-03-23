@@ -5,4 +5,4 @@ description: CTBA Coursework
 
 This is content I've developed for my courses
 
-- [Matplotlib Graph Aesthetics](/Graphs/index.md)
+- [Matplotlib Graph Aesthetics](/GraphAesthetics/index.md)
